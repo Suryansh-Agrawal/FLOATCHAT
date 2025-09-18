@@ -1,0 +1,33 @@
+{
+  "profile_summary": "Float unknown near 19891001.00\u00b0N 50000.00\u00b0E, 0 profiles; No BGC sensors reported.",
+  "variable_stats": {
+    "woce_date": {
+      "min": 19891001.0,
+      "max": 19981231.0,
+      "mean": 19939953.40873345,
+      "std": 26545.451894700436,
+      "flagged_anomalies": 0
+    },
+    "woce_time": {
+      "min": 0.0,
+      "max": 230000.0,
+      "mean": 114847.71875,
+      "std": 69346.2734375,
+      "flagged_anomalies": 0
+    },
+    "sea_level_1": {
+      "min": 0.6549999713897705,
+      "max": 2.8429999351501465,
+      "mean": 1.9807628393173218,
+      "std": 0.3872900605201721,
+      "flagged_anomalies": 41
+    },
+    "sea_level_1_clean": {
+      "min": 0.6549999713897705,
+      "max": 2.8429999351501465,
+      "mean": 1.975880742073059,
+      "std": 0.3808149993419647,
+      "flagged_anomalies": 56
+    }
+  }
+}
