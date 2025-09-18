@@ -1,4 +1,4 @@
-
+import xarray as xr
 
 def load_netcdf_xarray(filepath: str):
     """Load a local NetCDF file into an xarray Dataset."""
